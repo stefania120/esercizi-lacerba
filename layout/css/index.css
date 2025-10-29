@@ -282,7 +282,7 @@ footer{
 
     .header__inner nav,
     .header__inner .header-cta {
-        display: block;
+        display: block; 
     }
 
     .menu-toggle {
